@@ -27,7 +27,7 @@ This program is a cross-platform Graphical User Interface for [Borg Backup](borg
 
 ### Wireframe mockup
 
-![Mockup](../promo/img/Borg_Data_Node-Mockup.svg)
+![Mockup](https://github.com/EthraZa/Borg-Data-Node/blob/master/promo/img/Borg_Data_Node-Mockup.svg)
 Made with [Draw.io](https://www.draw.io/)
 
 ---
